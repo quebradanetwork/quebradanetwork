@@ -1,31 +1,76 @@
-name: Reportar Bug
-description: Crie um relato de erro para nos ajudar a melhorar nossos sistemas.
-title: "[BUG]: "
-labels: ["bug"]
+name: "🐞 Reportar Bug"
+description: "Relate um comportamento inesperado em um projeto da Quebrada Network."
+title: "[Bug]: "
+labels: ["bug", "triagem"]
 body:
-  - type: textarea
-    id: description
+  - type: markdown
     attributes:
-      label: Descrição do Bug
-      description: O que aconteceu de errado? Descreva o problema detalhadamente.
-      placeholder: Exemplo - O script X não está salvando os dados no banco de dados.
-    validations:
-      required: true
-  - type: textarea
-    id: reproduction
-    attributes:
-      label: Como reproduzir
-      description: Quais são os passos para reproduzir este erro?
-      placeholder: |
-        1. Abra o painel...
-        2. Clique no botão...
-        3. Veja o erro na tela...
-    validations:
-      required: true
+      value: |
+        Obrigado por reportar. Preencha os campos abaixo com o máximo de detalhes.
+        Isso acelera a triagem e a correção.
+
   - type: input
-    id: version
+    id: projeto
     attributes:
-      label: Versão do Sistema/Resource
-      description: Qual versão você está utilizando?
+      label: "Projeto / Resource"
+      description: "Qual projeto está apresentando o problema?"
+      placeholder: "ex: qp_store, QFinance, qn_radio..."
     validations:
       required: true
+
+  - type: textarea
+    id: descricao
+    attributes:
+      label: "Descrição do problema"
+      description: "Descreva claramente o que está acontecendo."
+      placeholder: "Ao executar X, acontece Y em vez de Z."
+    validations:
+      required: true
+
+  - type: textarea
+    id: reproducao
+    attributes:
+      label: "Passos para reproduzir"
+      description: "Liste o passo a passo para reproduzir o comportamento."
+      placeholder: |
+        1. Vá até '...'
+        2. Execute o comando '...'
+        3. Observe o erro '...'
+    validations:
+      required: true
+
+  - type: textarea
+    id: esperado
+    attributes:
+      label: "Comportamento esperado"
+      description: "O que deveria acontecer?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: "Logs / Erros"
+      description: "Cole logs do console (F8), txAdmin ou servidor. Serão formatados como código."
+      render: shell
+    validations:
+      required: false
+
+  - type: input
+    id: ambiente
+    attributes:
+      label: "Ambiente"
+      description: "Versão do artefato FiveM, SO do servidor, versão do resource, etc."
+      placeholder: "ex: artifact 12000, Ubuntu 22.04, vRP fork ImagicTheCat"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: verificacoes
+    attributes:
+      label: "Verificações"
+      options:
+        - label: "Pesquisei nas issues existentes e este bug ainda não foi reportado."
+          required: true
+        - label: "Estou usando a versão mais recente do projeto."
+          required: false

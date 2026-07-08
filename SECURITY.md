@@ -1,19 +1,52 @@
 # Política de Segurança
 
-A **Quebrada Network** leva a segurança muito a sério. Mantemos nossos sistemas atualizados e seguimos as melhores práticas de desenvolvimento para garantir a integridade dos nossos serviços.
+A segurança é um valor central da **Quebrada Network**. Agradecemos a
+divulgação responsável de vulnerabilidades.
 
-## Reportando uma Vulnerabilidade
+## 📢 Como reportar
 
-Se você descobrir uma vulnerabilidade de segurança em qualquer um de nossos repositórios, produtos ou infraestrutura, **não abra uma issue pública**.
+**Não abra issues públicas** para relatar vulnerabilidades de segurança.
 
-Por favor, reporte o problema diretamente para nossa equipe de segurança através do e-mail:
+Envie os detalhes para:
 
-**[contato@quebradanetwork.com.br](mailto:contato@quebradanetwork.com.br)**
+**📧 contato@quebradanetwork.com.br**
 
-### O que incluir no seu relatório:
-* Tipo da vulnerabilidade (ex: XSS, SQLi, RCE).
-* Passos detalhados para reproduzir o problema.
-* O impacto potencial da vulnerabilidade.
-* Sugestão de mitigação (opcional, mas apreciada).
+Inclua, sempre que possível:
 
-Nossa equipe analisará o seu relatório e responderá o mais breve possível.
+- Descrição da vulnerabilidade e do impacto potencial
+- Passos para reproduzir (proof of concept)
+- Projeto/resource e versão afetados
+- Sugestão de mitigação, se houver
+
+## ⏱️ Nosso compromisso
+
+- Confirmação de recebimento em até **72 horas**.
+- Avaliação inicial e classificação de severidade em até **7 dias**.
+- Atualizações periódicas sobre o andamento da correção.
+- Crédito público ao pesquisador após a correção, se desejado.
+
+## 🔒 Escopo
+
+Estão no escopo desta política:
+
+- Resources e sistemas FiveM desenvolvidos pela organização
+- Plataformas SaaS (ex.: QFinance)
+- APIs, painéis e aplicações web da organização
+- Infraestrutura de monitoramento
+
+## 🚫 Fora do escopo
+
+- Ataques de negação de serviço (DoS/DDoS)
+- Engenharia social contra a equipe ou usuários
+- Vulnerabilidades em dependências de terceiros já publicamente conhecidas
+  sem impacto direto comprovado em nossos sistemas
+
+## 🤝 Divulgação responsável
+
+Pedimos que você:
+
+- Dê tempo razoável para correção antes de qualquer divulgação pública.
+- Não acesse, modifique ou destrua dados de terceiros.
+- Não explore a falha além do necessário para demonstrá-la.
+
+Agradecemos por ajudar a manter a Quebrada Network e sua comunidade seguras.

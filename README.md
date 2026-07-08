@@ -1,176 +1,292 @@
-# 👨‍💻 Yuri Braga
+# 🏢 Quebrada Network
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=440&lines=Desenvolvedor+Full+Stack;Especialista+em+Tecnologias+Modernas;Sempre+aprendendo+algo+novo!" alt="Typing SVG" />
+
+<!-- Adicione o logo oficial aqui -->
+
+<!-- <img src="./assets/logo.png" height="160" alt="Quebrada Network"/> -->
+
+# Quebrada Network
+
+### Construindo experiências para FiveM.
+
+Empresa brasileira especializada no desenvolvimento de soluções para **FiveM**, **SaaS**, aplicações web e infraestrutura para comunidades de Roleplay.
+
+<br>
+
+[![Website](https://img.shields.io/badge/Website-quebradanetwork.com.br-000000?style=for-the-badge)](https://quebradanetwork.com.br)
+[![QFinance](https://img.shields.io/badge/QFinance-SaaS-000000?style=for-the-badge)](https://qfinance.network)
+[![FiveM](https://img.shields.io/badge/FiveM-Development-000000?style=for-the-badge\&logo=fivem)
+](https://fivem.net)
+[![Made in Brazil](https://img.shields.io/badge/Made%20in-Brazil-000000?style=for-the-badge)]()
+
 </div>
 
-<div align="center">
-  
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuri.braga17)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7bTUW753cs)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuribragasoares@gmail.com)
+---
 
-</div>
+# Quem Somos
 
+A **Quebrada Network** é uma organização brasileira fundada em **2025**, dedicada ao desenvolvimento de experiências imersivas para a comunidade **FiveM**.
 
-## 🚀 Sobre Mim
+Nosso objetivo é criar soluções modernas, escaláveis e de alto desempenho para servidores de Roleplay, desenvolvendo desde **resources personalizados**, aplicações web e plataformas SaaS até infraestrutura completa para gerenciamento de comunidades.
 
-```typescript
-class YuriBraga {
-  public nome: string = "Yuri Braga";
-  public cargo: string = "Developer Full Stack";
-  public empresa: string = "Flextor Network";
-  public localização: string = "Minas Gerais, Brasil";
-  
-  public especialidades: string[] = [
-    "Desenvolvimento Web",
-    "Aplicações Mobile",
-    "Desenvolvimento para Servidores FiveM",
-    "Scripts e Resources para GTA V RP",
-    "Arquitetura de Software",
-    "UI/UX Design"
-  ];
-  
-  public expertiseGaming: string[] = [
-    "Lua Scripting para FiveM",
-    "ESX/QBCore Frameworks",
-    "Creative Framework",
-    "VRPEX Framework",
-    "Database Integration (MySQL)",
-    "Custom Resources Development",
-    "Server Performance Optimization"
-  ];
-  
-  public atualmente: string = "Construindo soluções inovadoras e desenvolvendo para FiveM";
-  
-  public objetivos: string[] = [
-    "Aperfeiçoar habilidades em Cloud Computing",
-    "Criar resources inovadores para FiveM",
-    "Contribuir com projetos open source",
-    "Mentorear novos desenvolvedores"
-  ];
-}
+Cada projeto é desenvolvido priorizando:
+
+* Performance
+* Organização
+* Segurança
+* Escalabilidade
+* Experiência do usuário
+* Código limpo
+* Arquitetura modular
+* Facilidade de manutenção
+
+---
+
+# Nossa Missão
+
+Desenvolver tecnologias que elevem o padrão dos servidores FiveM, oferecendo soluções modernas, organizadas e preparadas para crescer junto com cada comunidade.
+
+---
+
+# Nossos Valores
+
+* 🚀 Inovação constante
+* ⚙️ Performance acima de tudo
+* 🧩 Arquitetura modular
+* 📚 Documentação de qualidade
+* 🔒 Segurança
+* 📈 Escalabilidade
+* 🎨 Experiência do usuário
+* 🤝 Compromisso com nossos clientes
+
+---
+
+# O que Desenvolvemos
+
+### 🎮 FiveM
+
+* Resources exclusivos
+* Sistemas completos
+* Framework próprio
+* Integrações vRP
+* Integrações Creative
+* Interfaces NUI
+* APIs
+* Sistemas administrativos
+* Performance Optimization
+* Ferramentas para desenvolvimento
+
+---
+
+### 🌐 Web
+
+* Sistemas Web
+* Dashboards
+* Painéis Administrativos
+* Landing Pages
+* APIs REST
+* Integrações Discord
+* Autenticação
+* Documentações
+
+---
+
+### ☁️ SaaS
+
+Desenvolvemos plataformas online para gerenciamento de comunidades, servidores e operações administrativas.
+
+---
+
+# Stack Tecnológica
+
+## Frontend
+
+<p>
+
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react"/>
+
+</p>
+
+---
+
+## Backend
+
+<p>
+
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php"/>
+<img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel"/>
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/>
+
+</p>
+
+---
+
+## Banco de Dados
+
+<p>
+
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis"/>
+
+</p>
+
+---
+
+## DevOps
+
+<p>
+
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
+
+</p>
+
+---
+
+## FiveM
+
+<p>
+
+<img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua"/>
+<img src="https://img.shields.io/badge/FiveM-000000?style=for-the-badge&logo=fivem"/>
+<img src="https://img.shields.io/badge/vRP-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Creative-000000?style=for-the-badge"/>
+
+</p>
+
+---
+
+# Frameworks Suportados
+
+| Framework | Status |
+| --------- | ------ |
+| vRP       | ✅      |
+| Creative  | ✅      |
+
+---
+
+# Ecossistema Quebrada Network
+
+## 🎮 Quebrada Paulista Roleplay
+
+Servidor paulista desenvolvido com foco em inovação, performance e experiências imersivas.
+
+https://quebradapaulista.com.br
+
+---
+
+## 🎮 Eliza Maria Roleplay
+
+Projeto desenvolvido pela Quebrada Network com foco em sistemas exclusivos e evolução contínua.
+
+https://elizamariaroleplay.com.br
+
+---
+
+## 💼 QFinance
+
+Plataforma SaaS desenvolvida para gerenciamento financeiro e administrativo de servidores FiveM.
+
+https://qfinance.network
+
+---
+
+# Diferenciais
+
+* Arquitetura Modular
+* Código Limpo
+* Performance
+* Interface Moderna
+* Recursos Exclusivos
+* Integração com Discord
+* APIs Próprias
+* Documentação
+* Escalabilidade
+* Desenvolvimento Contínuo
+
+---
+
+# Nossa Organização
+
+Nossa organização é dividida em diferentes áreas de desenvolvimento.
+
+```text
+Quebrada Network
+│
+├── Core
+├── FiveM
+│   ├── Resources
+│   ├── Framework
+│   ├── UI
+│   └── Libraries
+│
+├── SaaS
+│
+├── APIs
+│
+├── Websites
+│
+├── Documentation
+│
+└── Internal Projects
 ```
 
-## 🛠️ Stack Tecnológica
+---
 
-### **Frontend**
-<div align="left">
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-</div>
-
-### **Backend**
-<div align="left">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-</div>
-
-### **Mobile**
-<div align="left">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img alt="Swift" src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
-</div>
-
-### **Banco de Dados**
-<div align="left">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-</div>
-
-### **Game Development & Scripting**
-<div align="left">
-  <img alt="Lua" src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img alt="FiveM" src="https://img.shields.io/badge/FiveM-F40552?style=for-the-badge&logo=fivem&logoColor=white"/>
-  <img alt="GTA V" src="https://img.shields.io/badge/GTA_V_Modding-00D4AA?style=for-the-badge&logo=rockstargames&logoColor=white"/>
-  <img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
-</div>
-
-### **Ferramentas & Outros**
-<div align="left">
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="VS Code" src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</div>
-
-
-## 📊 Estatísticas GitHub
+# Estatísticas
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yuribraga17&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yuribraga17&layout=compact&langs_count=8&theme=radical"/>
-</div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yuribraga17&theme=radical" alt="GitHub Streak"/>
-</div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=quebradanetwork&show_icons=true&theme=github_dark&hide_border=true"/>
 
-
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuribraga17&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15&no-bg=true" alt="GitHub Trophies"/>
-</div>
-
-
-## 📈 Contribuições
-
-<div align="center">
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
-</div>
-
-
-## 🎯 Projetos em Destaque
-
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yuribraga17&repo=backdoor-scanner&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D)](https://github.com/yuribraga17/backdoor-scanner)
-    [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=yuribraga17&repo=lb-upload-web&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D)](https://github.com/yuribraga17/lb-upload-web)
-</div>
-
-
-## 💡 O que estou fazendo agora
-
-- 🔭 Trabalhando em **projetos inovadores na Flextor Network**
-- 🎮 Desenvolvendo **resources personalizados para servidores FiveM**
-- 🌱 Aprendendo **Cloud Computing e DevOps**
-- 👯 Procurando colaborar em **projetos open source e comunidade FiveM**
-- 💬 Pergunte-me sobre **desenvolvimento web, mobile, FiveM scripting ou arquitetura de software**
-- 📫 Como me encontrar: **[yuribragasoares@gmail.com](mailto:yuribragasoares@gmail.com)**
-- ⚡ Curiosidade: **Adoro criar experiências únicas em servidores de roleplay e resolver problemas complexos**
-
-
-## 🤝 Vamos Conectar!
-
-<div align="center">
-  
-  **Sempre aberto para discussões sobre tecnologia, colaborações em projetos e networking profissional!**
-  
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yuri.braga17)
-  [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/7bTUW753cs)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuribragasoares@gmail.com)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quebradanetwork&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
+---
+
+# Nosso Compromisso
+
+Todos os nossos projetos seguem os mesmos princípios:
+
+* Organização
+* Escalabilidade
+* Segurança
+* Performance
+* Manutenção simplificada
+* Código reutilizável
+* Interfaces intuitivas
+* Padronização
+
+---
+
+# Contato
+
+**Website**
+
+https://quebradanetwork.com.br
+
+**Email**
+
+[contato@quebradanetwork.com.br](mailto:contato@quebradanetwork.com.br)
+
+---
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=yuribraga17&color=00D9FF&style=flat-square&label=Profile+Views)
-  
-  ⭐️ **Se você gostou do meu trabalho, considere dar uma estrela nos meus repositórios!** ⭐️
-  
+
+## Quebrada Network
+
+### Construindo experiências para FiveM.
+
+Desenvolvendo tecnologias para elevar o nível dos servidores brasileiros.
+
+**© 2025 Quebrada Network**
+
 </div>

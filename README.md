@@ -1,37 +1,20 @@
-# 🏢 Quebrada Network
-
+<!-- 🏢 Quebrada Network | Banner e Logo -->
 <div align="center">
-
-<!-- Adicione o logo oficial aqui -->
-
-<!-- <img src="./assets/logo.png" height="160" alt="Quebrada Network"/> -->
-
-# Quebrada Network
-
-### Construindo experiências para FiveM.
-
-Empresa brasileira especializada no desenvolvimento de soluções para **FiveM**, **SaaS**, aplicações web e infraestrutura para comunidades de Roleplay.
-
-<br>
-
-[![Website](https://img.shields.io/badge/Website-quebradanetwork.com.br-000000?style=for-the-badge)](https://quebradanetwork.com.br)
-[![QFinance](https://img.shields.io/badge/QFinance-SaaS-000000?style=for-the-badge)](https://qfinance.network)
-[![FiveM](https://img.shields.io/badge/FiveM-Development-000000?style=for-the-badge\&logo=fivem)
-](https://fivem.net)
-[![Made in Brazil](https://img.shields.io/badge/Made%20in-Brazil-000000?style=for-the-badge)]()
-
+  <!-- Adicione o logo oficial aqui substituindo o link abaixo -->
+  <!-- <img src="./assets/logo.png" height="160" alt="Quebrada Network"/> -->
+  
+  <h1>Quebrada Network</h1>
+  <h3>Construindo experiências para FiveM.</h3>
+  <p>Empresa brasileira especializada no desenvolvimento de soluções para FiveM, SaaS, aplicações web e infraestrutura para comunidades de Roleplay.</p>
 </div>
 
 ---
 
-# Quem Somos
+## 🏢 Quem Somos
 
-A **Quebrada Network** é uma organização brasileira fundada em **2025**, dedicada ao desenvolvimento de experiências imersivas para a comunidade **FiveM**.
-
-Nosso objetivo é criar soluções modernas, escaláveis e de alto desempenho para servidores de Roleplay, desenvolvendo desde **resources personalizados**, aplicações web e plataformas SaaS até infraestrutura completa para gerenciamento de comunidades.
+A **Quebrada Network** é uma organização brasileira fundada em 2025, dedicada ao desenvolvimento de experiências imersivas para a comunidade FiveM. Nosso objetivo é criar soluções modernas, escaláveis e de alto desempenho para servidores de Roleplay, desenvolvendo desde resources personalizados, aplicações web e plataformas SaaS até infraestrutura completa para gerenciamento de comunidades.
 
 Cada projeto é desenvolvido priorizando:
-
 * Performance
 * Organização
 * Segurança
@@ -43,13 +26,13 @@ Cada projeto é desenvolvido priorizando:
 
 ---
 
-# Nossa Missão
+## 🎯 Nossa Missão
 
 Desenvolver tecnologias que elevem o padrão dos servidores FiveM, oferecendo soluções modernas, organizadas e preparadas para crescer junto com cada comunidade.
 
 ---
 
-# Nossos Valores
+## 💎 Nossos Valores
 
 * 🚀 Inovação constante
 * ⚙️ Performance acima de tudo
@@ -62,231 +45,113 @@ Desenvolver tecnologias que elevem o padrão dos servidores FiveM, oferecendo so
 
 ---
 
-# O que Desenvolvemos
+## 🚀 O que Desenvolvemos
 
 ### 🎮 FiveM
-
-* Resources exclusivos
-* Sistemas completos
+* Resources exclusivos e Sistemas completos
 * Framework próprio
-* Integrações vRP
-* Integrações Creative
-* Interfaces NUI
-* APIs
+* Integrações vRP e Creative
+* Interfaces NUI e APIs
 * Sistemas administrativos
 * Performance Optimization
 * Ferramentas para desenvolvimento
 
----
-
 ### 🌐 Web
-
-* Sistemas Web
-* Dashboards
-* Painéis Administrativos
-* Landing Pages
-* APIs REST
-* Integrações Discord
-* Autenticação
-* Documentações
-
----
+* Sistemas Web e Landing Pages
+* Dashboards e Painéis Administrativos
+* APIs REST e Integrações Discord
+* Autenticação e Documentações
 
 ### ☁️ SaaS
-
-Desenvolvemos plataformas online para gerenciamento de comunidades, servidores e operações administrativas.
-
----
-
-# Stack Tecnológica
-
-## Frontend
-
-<p>
-
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5"/>
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3"/>
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react"/>
-
-</p>
+* Desenvolvemos plataformas online para gerenciamento de comunidades, servidores e operações administrativas.
 
 ---
 
-## Backend
+## 🛠️ Stack Tecnológica
 
-<p>
+### Frontend
+<div align="left">
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" alt="React"/>
+</div>
 
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js"/>
-<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php"/>
-<img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel"/>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python"/>
+### Backend
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" alt="Node"/>
+  <img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-000000?style=for-the-badge&logo=laravel" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python" alt="Python"/>
+</div>
 
-</p>
+### Banco de Dados
+<div align="left">
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis" alt="Redis"/>
+</div>
 
----
+### DevOps
+<div align="left">
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git" alt="Git"/>
+</div>
 
-## Banco de Dados
-
-<p>
-
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis"/>
-
-</p>
-
----
-
-## DevOps
-
-<p>
-
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
-
-</p>
-
----
-
-## FiveM
-
-<p>
-
-<img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua"/>
-<img src="https://img.shields.io/badge/FiveM-000000?style=for-the-badge&logo=fivem"/>
-<img src="https://img.shields.io/badge/vRP-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Creative-000000?style=for-the-badge"/>
-
-</p>
-
----
-
-# Frameworks Suportados
-
-| Framework | Status |
-| --------- | ------ |
-| vRP       | ✅      |
-| Creative  | ✅      |
-
----
-
-# Ecossistema Quebrada Network
-
-## 🎮 Quebrada Paulista Roleplay
-
-Servidor paulista desenvolvido com foco em inovação, performance e experiências imersivas.
-
-https://quebradapaulista.com.br
-
----
-
-## 🎮 Eliza Maria Roleplay
-
-Projeto desenvolvido pela Quebrada Network com foco em sistemas exclusivos e evolução contínua.
-
-https://elizamariaroleplay.com.br
-
----
-
-## 💼 QFinance
-
-Plataforma SaaS desenvolvida para gerenciamento financeiro e administrativo de servidores FiveM.
-
-https://qfinance.network
-
----
-
-# Diferenciais
-
-* Arquitetura Modular
-* Código Limpo
-* Performance
-* Interface Moderna
-* Recursos Exclusivos
-* Integração com Discord
-* APIs Próprias
-* Documentação
-* Escalabilidade
-* Desenvolvimento Contínuo
-
----
-
-# Nossa Organização
-
-Nossa organização é dividida em diferentes áreas de desenvolvimento.
-
-```text
-Quebrada Network
-│
-├── Core
-├── FiveM
-│   ├── Resources
-│   ├── Framework
-│   ├── UI
-│   └── Libraries
-│
-├── SaaS
-│
-├── APIs
-│
-├── Websites
-│
-├── Documentation
-│
-└── Internal Projects
-```
-
----
-
-# Estatísticas
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=quebradanetwork&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quebradanetwork&layout=compact&theme=github_dark&hide_border=true"/>
-
+### FiveM
+<div align="left">
+  <img src="https://img.shields.io/badge/Lua-000000?style=for-the-badge&logo=lua" alt="Lua"/>
+  <img src="https://img.shields.io/badge/FiveM-000000?style=for-the-badge&logo=fivem" alt="FiveM"/>
+  <img src="https://img.shields.io/badge/vRP-000000?style=for-the-badge" alt="vRP"/>
+  <img src="https://img.shields.io/badge/Creative-000000?style=for-the-badge" alt="Creative"/>
 </div>
 
 ---
 
-# Nosso Compromisso
+## 🎮 Frameworks Suportados
 
-Todos os nossos projetos seguem os mesmos princípios:
-
-* Organização
-* Escalabilidade
-* Segurança
-* Performance
-* Manutenção simplificada
-* Código reutilizável
-* Interfaces intuitivas
-* Padronização
+| Framework | Status |
+| :--- | :---: |
+| **vRP** | ✅ |
+| **Creative** | ✅ |
 
 ---
 
-# Contato
+## 🌐 Ecossistema Quebrada Network
 
-**Website**
+### [Quebrada Paulista Roleplay](https://quebradapaulista.com.br)
+Servidor paulista desenvolvido com foco em inovação, performance e experiências imersivas.
 
-https://quebradanetwork.com.br
+### [Eliza Maria Roleplay](https://elizamariaroleplay.com.br)
+Projeto desenvolvido pela Quebrada Network com foco em sistemas exclusivos e evolução contínua.
 
-**Email**
-
-[contato@quebradanetwork.com.br](mailto:contato@quebradanetwork.com.br)
+### [QFinance](https://qfinance.network)
+Plataforma SaaS desenvolvida para gerenciamento financeiro e administrativo de servidores FiveM.
 
 ---
+
+## 📈 Estatísticas
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quebradanetwork&show_icons=true&theme=github_dark&hide_border=true" alt="Estatísticas GitHub"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quebradanetwork&layout=compact&theme=github_dark&hide_border=true" alt="Top Linguagens"/>
+</div>
 
-## Quebrada Network
+---
 
-### Construindo experiências para FiveM.
+## 🤝 Contato e Redes
 
-Desenvolvendo tecnologias para elevar o nível dos servidores brasileiros.
+| Canal | Link |
+| :--- | :--- |
+| **Website** | [quebradanetwork.com.br](https://quebradanetwork.com.br) |
+| **Email** | [contato@quebradanetwork.com.br](mailto:contato@quebradanetwork.com.br) |
 
-**© 2025 Quebrada Network**
+<br>
 
+<div align="center">
+  <strong>Quebrada Network</strong><br>
+  Construindo experiências para FiveM.<br>
+  Desenvolvendo tecnologias para elevar o nível dos servidores brasileiros.<br>
+  <em>© 2025 Quebrada Network</em>
 </div>

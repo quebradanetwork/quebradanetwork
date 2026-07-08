@@ -1,4 +1,4 @@
-export default {
+sexport default {
   clearMocks: true,
   transform: {},
   testEnvironment: "jsdom",

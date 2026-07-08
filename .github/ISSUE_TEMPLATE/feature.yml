@@ -1,0 +1,21 @@
+name: Solicitar Funcionalidade
+description: Sugira uma nova ideia ou melhoria para a Quebrada Network.
+title: "[FEATURE]: "
+labels: ["enhancement"]
+body:
+  - type: textarea
+    id: description
+    attributes:
+      label: Descrição da Funcionalidade
+      description: O que você gostaria que fosse adicionado?
+      placeholder: Seria ótimo se o sistema fizesse...
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Contexto ou Problema
+      description: Qual problema essa funcionalidade resolve?
+      placeholder: Atualmente, é difícil fazer X porque...
+    validations:
+      required: true
